@@ -1,0 +1,20 @@
+{
+  "name": "projeto_bytebank",
+  "version": "1.0.0",
+  "description": "Projeto para do Bytebank para seus clientes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bruno-CLM/Projeto_Bytebank.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-CLM/Projeto_Bytebank/issues"
+  },
+  "homepage": "https://github.com/Bruno-CLM/Projeto_Bytebank#readme"
+}
